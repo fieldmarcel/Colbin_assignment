@@ -24,7 +24,7 @@ export default function App() {
                 to="/" 
                 className="text-xl font-bold text-gray-900 hover:text-indigo-600 transition-colors"
               >
-                AuthApp
+                Colbin Auth Assignment
               </Link>
               
               <div className="hidden md:flex space-x-6">
